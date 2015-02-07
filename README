@@ -1,3 +1,19 @@
+Thanks @xiaolu 
+@xiaolu URL:
+https://github.com/xiaolu
+
 需要修改build/core/qcom_utils.mk 加一句：
 QCOM_BOARD_PLATFORMS += msm8939
 
+android_device_htc_htc_a51dtul
+HTC D820 Recovery Device
+
+Clone:
+git clone https://github.com/Mr-zeng/android_device_htc_htc_a51dtul.git -b cm-11.0
+
+
+Only Make Recoveryimage
+仅限编译Recovery
+
+If you need to reprint, please as far as possible with my name, thank you!
+如果你需要转载的话，请尽可能的说明出处，谢谢！
